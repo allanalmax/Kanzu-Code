@@ -1,0 +1,36 @@
+/* header section */
+header {
+    background-color: #E2DFD0;
+}
+
+.navbar-list {
+    color: #524C42;
+}
+
+header li {
+    color: #524C42;
+}
+
+header li::marker {
+    color: #F97300;
+}
+
+/* content section */
+.main-heading {
+    text-align: center;
+}
+
+body {
+    background-color: #32012F;
+    color: #F97300;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+li::marker {
+    color: #E2DFD0;
+}
+
+/* footer section */
+footer {
+    text-align: center;
+}

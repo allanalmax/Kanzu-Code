@@ -1,0 +1,37 @@
+/* header section */
+header {
+    background-color: #E2DFD0;
+}
+
+.navbar-list {
+    color: #524C42;
+}
+
+/* content section */
+.main-heading {
+    text-align: center;
+}
+
+body {
+    background-color: #32012F;
+    color: #F97300;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+del {
+    color: #524C42;
+}
+
+button {
+    background-color: #E2DFD0;
+    text-decoration: none;
+}
+
+.list-links {
+    color: #E2DFD0;
+}
+
+/* footer section */
+footer {
+    text-align: center;
+}
