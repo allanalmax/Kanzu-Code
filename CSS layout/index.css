@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header section */
+header {
+    background-color: #FFFAE6;
+    height: 50px;
+    padding: 20px;
+}
+
+h1 {
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+header nav ol {
+    float: right;
+    color: #FF5F00;
+}
+
+#resume {
+    border: 2px solid #002379;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#resume:hover {
+    background-color: black;
+}
+
+/* body section */
+body {
+    font-size: x-large;
+}
